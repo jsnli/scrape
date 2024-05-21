@@ -1,0 +1,37 @@
+{
+    "Name": "Channeler's Trident",
+    "Description": "Trident of the Six-eyed Channelers, sorcerers who serve Seath the Scaleless in collecting human specimens. Thrusted in circular motions in a unique martial arts dance that stirs nearby allies into a bloodthirsty frenzy.",
+    "Damage": {
+        "Stats": {
+            "Physical": "70",
+            "Magical": "115",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "240",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "16",
+            "Intelligence": "24",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "C",
+            "Intelligence": "B",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

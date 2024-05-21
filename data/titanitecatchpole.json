@@ -1,0 +1,36 @@
+{
+    "Name": "Titanite Catch Pole",
+    "Description": "Weapon of the titanite demon, a faceless stone monster born from titanite slab. One of the enchanted weapons, perhaps from residual power of the titanite slab. Known for its leaping attack which comes smashing down on foes from above.",
+    "Damage": {
+        "Stats": {
+            "Physical": "125",
+            "Magical": "145",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Durability": "600",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "D",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

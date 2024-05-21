@@ -1,0 +1,36 @@
+{
+    "Name": "Demon Great Machete",
+    "Description": "The lesser Capra demons use these greatswords in pairs. The blade is cast iron and hooked. The sword is imbued with no particular magic, but for those who have the strength, its great weight will smash foes mercilessly.",
+    "Damage": {
+        "Stats": {
+            "Physical": "133",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Durability": "600",
+    "Weight": "18",
+    "Stats": {
+        "Requirements": {
+            "Strength": "40",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "70",
+        "Magical": "10",
+        "Intelligence": "50",
+        "Faith": "50"
+    },
+    "Stability": "44"
+}

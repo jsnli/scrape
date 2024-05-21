@@ -1,0 +1,36 @@
+{
+    "Name": "Murakumo",
+    "Description": "Giant curved sword forged using special methods in an Eastern land. This unparalleled weapon cuts like a Katana but is heavier than a Nata machete. Requires extreme strength, dexterity, and stamina to wield.",
+    "Damage": {
+        "Stats": {
+            "Physical": "113",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "180",
+    "Weight": "12.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "28",
+            "Dexterity": "13",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "36"
+}

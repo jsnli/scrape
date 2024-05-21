@@ -1,0 +1,37 @@
+{
+    "Name": "Notched Whip",
+    "Description": "Whip with sharp spikes. Only slightly effective against armor and tough scales, but quite formidable against enemies with exposed skin. Also causes heavy bleeding.",
+    "Damage": {
+        "Stats": {
+            "Physical": "76",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "200",
+    "Weight": "2.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "8",
+            "Dexterity": "16",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "30",
+        "Magical": "10",
+        "Intelligence": "20",
+        "Faith": "20"
+    },
+    "Stability": "16"
+}

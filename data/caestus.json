@@ -1,0 +1,37 @@
+{
+    "Name": "Caestus",
+    "Description": "The weapon augments one's bare hands with thick, studded leather. The Caestus has a short reach, but quickly cools down. Amount of damage inflicted is dependent on its wearer's strength.",
+    "Damage": {
+        "Stats": {
+            "Physical": "66",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "300",
+    "Weight": "0.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "5",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "0",
+        "Magical": "0",
+        "Intelligence": "0",
+        "Faith": "0"
+    },
+    "Stability": "0"
+}

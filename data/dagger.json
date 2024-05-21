@@ -1,0 +1,36 @@
+{
+    "Name": "Dagger",
+    "Description": "This standard small dagger has only a modest attack but can be jabbed in rapid succession, and is effective in critical hits such as after a parry or when stabbing in the back. With both slash and thrust attacks, this dagger is useful in various situations.",
+    "Damage": {
+        "Stats": {
+            "Physical": "56",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "200",
+    "Weight": "0.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "5",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

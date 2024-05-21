@@ -1,0 +1,37 @@
+{
+    "Name": "Mace",
+    "Description": "Iron hammer with a protrusive pommel. Standard weapon for clerics. This simple bladeless strike weapon is effective against most foes, and can break the guard of a shield. However, one miss leaves one wide open.",
+    "Damage": {
+        "Stats": {
+            "Physical": "91",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "4.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "12",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

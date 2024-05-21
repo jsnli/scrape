@@ -1,0 +1,37 @@
+{
+    "Name": "Large Club",
+    "Description": "Large wooden club. The giant Undead of Blighttown wield these clubs, which became poisonous from the influence of their surroundings.",
+    "Damage": {
+        "Stats": {
+            "Physical": "120",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "11.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "26",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "A",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "32"
+}

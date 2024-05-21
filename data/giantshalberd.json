@@ -1,0 +1,37 @@
+{
+    "Name": "Giant's Halberd",
+    "Description": "Large halberd made of old brass, used by the giant sentinels of Anor Londo. Brass contains traces of lightning, but as the halberd is designed for the giant sentinels, its weight is unbearable.",
+    "Damage": {
+        "Stats": {
+            "Physical": "140",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "135"
+        },
+        "Type": "Normal/Thrust"
+    },
+    "Critical": "100",
+    "Durability": "300",
+    "Weight": "16",
+    "Stats": {
+        "Requirements": {
+            "Strength": "36",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

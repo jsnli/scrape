@@ -1,0 +1,37 @@
+{
+    "Name": "Blacksmith Hammer",
+    "Description": "Metal hammer of Andre of Astora, blacksmith at the Old Church. Can be used as a strike weapon, but better left in the hands of its talented owner.",
+    "Damage": {
+        "Stats": {
+            "Physical": "87",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "5.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "14",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

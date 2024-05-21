@@ -1,0 +1,29 @@
+{
+    "Name": "Light Crossbow",
+    "Description": "Standard crossbow issued to soldiers. While bows require both hands, a crossbow is held in one, but arming each bolt takes time.",
+    "Damage": {
+        "Stats": {
+            "Physical": "50",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "150",
+    "Weight": "3",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

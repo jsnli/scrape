@@ -1,0 +1,36 @@
+{
+    "Name": "Flamberge",
+    "Description": "This greatsword with an undulating blade is the choice weapon of the slithering serpent men of Sen's Fortress. This weapon is designed to flay the skin and causes heavy bleeding.",
+    "Damage": {
+        "Stats": {
+            "Physical": "100",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "160",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

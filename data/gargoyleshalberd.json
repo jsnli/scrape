@@ -1,0 +1,37 @@
+{
+    "Name": "Gargoyle's Halberd",
+    "Description": "Halberd of the gargoyle guarding the Bell of Awakening in the Undead Church. Perfectly standard bronze halberd without any special power.",
+    "Damage": {
+        "Stats": {
+            "Physical": "115",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "200",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

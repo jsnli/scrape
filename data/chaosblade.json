@@ -1,0 +1,37 @@
+{
+    "Name": "Chaos Blade",
+    "Description": "A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. This blade inherits only the chaotic nature of Quelaag, and has a unique speckled design. Blade wielder erodes along with opponents.",
+    "Damage": {
+        "Stats": {
+            "Physical": "144",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Critical": "100",
+    "Durability": "120",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

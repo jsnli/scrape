@@ -1,0 +1,37 @@
+{
+    "Name": "Crystal Straight Sword",
+    "Description": "A fully crystallized straight sword. How such a weapon was created is entirely unknown. The crystallization boosts its attack, but makes the blade brittle. The sword cannot be used for long, as it cannot be repaired.",
+    "Damage": {
+        "Stats": {
+            "Physical": "150",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular/Thrust"
+    },
+    "Critical": "100",
+    "Durability": "60",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

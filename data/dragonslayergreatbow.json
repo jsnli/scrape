@@ -1,0 +1,29 @@
+{
+    "Name": "Dragonslayer Greatbow",
+    "Description": "Bow of the Dragonslayers, led by Hawkeye Gough, one of Gwyn's Four Knights. This bow's unusual size requires that it be anchored to the ground when fired. Only uses specialized great arrows.",
+    "Damage": {
+        "Stats": {
+            "Physical": "90",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "100",
+    "Weight": "10.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "20",
+            "Dexterity": "20",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

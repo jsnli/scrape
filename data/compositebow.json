@@ -1,0 +1,29 @@
+{
+    "Name": "Composite Bow",
+    "Description": "Composite bow emphasizing power. Requires more strength than standard bows. Fires Faster than the Longbow. However, its range is shorter, making it unfit for sniping",
+    "Damage": {
+        "Stats": {
+            "Physical": "55",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "100",
+    "Weight": "1.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "11",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

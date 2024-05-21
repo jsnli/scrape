@@ -1,0 +1,36 @@
+{
+    "Name": "Morning Star",
+    "Description": "Hammer with a sharp spike on its pommel. One of the more barbaric cleric weapons. Uniquely, this hammer inflicts thrust damage, and causes bleeding.",
+    "Damage": {
+        "Stats": {
+            "Physical": "83",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Durability": "180",
+    "Weight": "4.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "11",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

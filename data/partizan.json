@@ -1,0 +1,37 @@
+{
+    "Name": "Partizan",
+    "Description": "Spear with a blade attached to a broad point. Boasts long reach, and can slice. The wide range of this spear makes it adaptable to many situations. Its strength lies in its length, but in cramped quarters, this backfires, and slices ricochet off walls.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular / Thrust"
+    },
+    "Critical": "100",
+    "Durability": "160",
+    "Weight": "4.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "13",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

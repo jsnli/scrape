@@ -1,0 +1,37 @@
+{
+    "Name": "Club",
+    "Description": "A simple wooden club. This simple bladeless strike weapon is effective against most foes, is easily handled, and can break the guard of a shield. However, a single miss makes one wide open, so timing and proximities are crucial.",
+    "Damage": {
+        "Stats": {
+            "Physical": "87",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "3.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "A",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

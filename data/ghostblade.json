@@ -1,0 +1,36 @@
+{
+    "Name": "Ghost Blade",
+    "Description": "The ghosts of New Londo clutch this wickedly sharp dagger with their bony hands and make mincemeat of the living. One of the cursed weapons which can inflict damage upon ghosts.",
+    "Damage": {
+        "Stats": {
+            "Physical": "110",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "100",
+    "Weight": "0.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "5",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

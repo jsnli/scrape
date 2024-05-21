@@ -1,0 +1,36 @@
+{
+    "Name": "Velka's Rapier",
+    "Description": "A symbolic, powerful thrusting sword used by the pardoner serving Velka, Goddess of sin. It is no mere symbol to be sure; the pardoner is an inhuman swordsman, and wields this enchanted blade with special sword technique.",
+    "Damage": {
+        "Stats": {
+            "Physical": "62",
+            "Magical": "104",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular/Thrust"
+    },
+    "Durability": "130",
+    "Weight": "2",
+    "Stats": {
+        "Requirements": {
+            "Strength": "8",
+            "Dexterity": "16",
+            "Intelligence": "16",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "C",
+            "Intelligence": "B",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "22"
+}

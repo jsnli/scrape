@@ -1,0 +1,36 @@
+{
+    "Name": "Black Knight Halberd",
+    "Description": "Halberd of the black knights who wander Lordran. Used to face chaos demons. The large motion that puts the weight of the body into the attack reflects the great size of their adversaries long ago.",
+    "Damage": {
+        "Stats": {
+            "Physical": "245",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "300",
+    "Weight": "14",
+    "Stats": {
+        "Requirements": {
+            "Strength": "32",
+            "Dexterity": "18",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "E",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

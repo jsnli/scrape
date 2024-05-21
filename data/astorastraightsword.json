@@ -1,0 +1,36 @@
+{
+    "Name": "Astora Straight Sword",
+    "Description": "Straight sword of an unknown knight, likely one of Astora's superiors. High-quality weapon with a powerful blessing.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "80",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal/Thrust"
+    },
+    "Durability": "160",
+    "Weight": "3.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "14"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "C"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "45"
+    },
+    "Stability": "32"
+}

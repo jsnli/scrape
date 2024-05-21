@@ -1,0 +1,36 @@
+{
+    "Name": "Stone Greatsword",
+    "Description": "The Stone Knights who guard the Darkroot Garden wield this moss-covered greatsword. The same magic which created the Stone Knights is imbued in the sword. Unleash this power by wielding the sword with two hands.",
+    "Damage": {
+        "Stats": {
+            "Physical": "148",
+            "Magical": "100",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Durability": "800",
+    "Weight": "18.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "40",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "E",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Four-pronged Plow",
+    "Description": "Four-pronged Plow wielded by the wooden scarecrows, serfs of the forest Sanctuary. The scarecrow serfs would not normally use these four pronged plows as weapons, but their sharpness makes them very deadly.",
+    "Damage": {
+        "Stats": {
+            "Physical": "75",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Durability": "300",
+    "Weight": "5.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "15",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

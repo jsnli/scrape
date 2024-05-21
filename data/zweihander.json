@@ -1,0 +1,37 @@
+{
+    "Name": "Zweihander",
+    "Description": "One of the gigantic straight greatswords. As the name suggests, the Zweihander is held with two hands, buts its wielder must still be inhumanly strong. It is this great weight that sends foes flying when hit solidly.",
+    "Damage": {
+        "Stats": {
+            "Physical": "130",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "200",
+    "Weight": "10.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "70",
+        "Magical": "10",
+        "Intelligence": "50",
+        "Faith": "50"
+    },
+    "Stability": "44"
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Blacksmith Giant Hammer",
+    "Description": "Wooden hammer of the giant blacksmith in Anor Londo who handles lightning weapons. The giant blacksmith forges with this wooden hammer, as it would be hazardous to handle lightning weapons with metals. Can be used as a strike weapon, but better left in the hands of its talented owner.",
+    "Damage": {
+        "Stats": {
+            "Physical": "120",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "200"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

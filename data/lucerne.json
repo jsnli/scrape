@@ -1,0 +1,37 @@
+{
+    "Name": "Lucerne",
+    "Description": "Halberd with a large, hard beak-like protrusion. Inflicts thrust damage. Instead of thrusting like a spear, the wielder of the Lucerne aims to club the head with its hard beak.",
+    "Damage": {
+        "Stats": {
+            "Physical": "110",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "200",
+    "Weight": "5.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "15",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

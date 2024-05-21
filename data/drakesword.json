@@ -1,0 +1,36 @@
+{
+    "Name": "Drake Sword",
+    "Description": "This sword, one of the rare dragon weapons, is formed by a drake's tail. Drakes are seen as undeveloped imitators of the dragons, but they are likely their distant kin. The sword is imbued with a mystical power, to be released when held with both hands.",
+    "Damage": {
+        "Stats": {
+            "Physical": "200",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "360",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

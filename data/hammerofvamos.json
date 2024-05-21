@@ -1,0 +1,37 @@
+{
+    "Name": "Hammer of Vamos",
+    "Description": "Metal hammer of Vamos, a skeleton blacksmith deep within the Catacombs who rarely speaks. Can be used as a strike weapon, but better left in the hands of its talented owner.",
+    "Damage": {
+        "Stats": {
+            "Physical": "115",
+            "Magical": "0",
+            "Fire": "64",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "5.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "14",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

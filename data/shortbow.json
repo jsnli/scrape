@@ -1,0 +1,29 @@
+{
+    "Name": "Short Bow",
+    "Description": "Small bow. Standard projectile weapon. Equip arrows to use. Hold bow and press L1 to aim. Aim for heads of humanoid foes. Press L2/R2 to change type of arrows.",
+    "Damage": {
+        "Stats": {
+            "Physical": "31",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "100",
+    "Weight": "0.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "A",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

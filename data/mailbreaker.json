@@ -1,0 +1,36 @@
+{
+    "Name": "Mail Breaker",
+    "Description": "Standard small thrusting sword. Unsharpened but pointed solid shaft can pierce tough armor. Can be thrust using the weight of one's body, and is very effective for critical attacks.",
+    "Damage": {
+        "Stats": {
+            "Physical": "57",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "200",
+    "Weight": "0.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "5",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "22"
+}

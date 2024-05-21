@@ -1,0 +1,36 @@
+{
+    "Name": "Gravelord Sword",
+    "Description": "Sword wielded only by servants of Gravelord Nito, the first of the dead. Crafted from the bones of the fallen. The miasma of death exudes from the sword, a veritable toxin to any living being.",
+    "Damage": {
+        "Stats": {
+            "Physical": "265",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slashing"
+    },
+    "Durability": "600",
+    "Weight": "10",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "13",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "E",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "36"
+}

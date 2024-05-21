@@ -1,0 +1,30 @@
+{
+    "Name": "Sniper Crossbow",
+    "Description": "Large crossbow with long distance used by Carim snipers. Often used with sniper bolts. But while crossbows are normally easy to use, the Sniper Crossbow requires dexterity.",
+    "Damage": {
+        "Stats": {
+            "Physical": "52",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Critical": "100",
+    "Durability": "150",
+    "Weight": "8.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "20",
+            "Dexterity": "16",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

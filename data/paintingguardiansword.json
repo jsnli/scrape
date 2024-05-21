@@ -1,0 +1,36 @@
+{
+    "Name": "Painting Guardian Sword",
+    "Description": "Curved sword of Anor Londo painting guards. Unique shape with flat tip. The guardians, who strike down those who dare threaten the painting, attack in a continuous, circular dancing motion, a technique passed down through generations.",
+    "Damage": {
+        "Stats": {
+            "Physical": "76",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "100",
+    "Weight": "1.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "7",
+            "Dexterity": "20",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "A",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

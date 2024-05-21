@@ -1,0 +1,36 @@
+{
+    "Name": "Rapier",
+    "Description": "Standard thrusting sword. Regular one-handed attack can be delivered with shield held up. Can parry with use of left hand. Thrusting attacks pierce and are effective against foes with hard exteriors, but the wielder is left open to damage after a swing.",
+    "Damage": {
+        "Stats": {
+            "Physical": "73",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Durability": "150",
+    "Weight": "1.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "7",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "22"
+}

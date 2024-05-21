@@ -1,0 +1,36 @@
+{
+    "Name": "Whip",
+    "Description": "Leather Whip. Not intended for battle. Virtually ineffective against armor and tough scale, but quite formidable against enemies with exposed skin.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "200",
+    "Weight": "1.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "7",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "30",
+        "Magical": "10",
+        "Intelligence": "20",
+        "Faith": "20"
+    },
+    "Stability": "16"
+}

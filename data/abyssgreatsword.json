@@ -1,0 +1,37 @@
+{
+    "Name": "Abyss Greatsword",
+    "Description": "This greatsword belonged to Lord Gwyn's Knight Artorias, who fell to the abyss. Swallowed by the Dark with its master, this sword is tainted by the abyss, and now its strength reflects its wielder's humanity.",
+    "Damage": {
+        "Stats": {
+            "Physical": "160",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "300",
+    "Weight": "9.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "22",
+            "Dexterity": "18",
+            "Intelligence": "18",
+            "Faith": "18"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "50",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

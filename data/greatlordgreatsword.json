@@ -1,0 +1,37 @@
+{
+    "Name": "Great Lord Greatsword",
+    "Description": "Greatsword born from the soul of Gwyn, Lord of Cinder. As bearer of the ultimate soul, Gwyn wielded the bolts of the sun, but before linking the fire, divided that power amongst his children, and set off with only this great sword as his companion.",
+    "Damage": {
+        "Stats": {
+            "Physical": "256",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Critical": "100",
+    "Durability": "400",
+    "Weight": "8.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "20",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "26"
+}

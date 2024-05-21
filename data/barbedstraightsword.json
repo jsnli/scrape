@@ -1,0 +1,36 @@
+{
+    "Name": "Barbed Straight Sword",
+    "Description": "The choice weapon of the infamous Darkwraith Kirk, also known as the Knight of Thorns for the gnarly spikes on his favorite weapon. This frightful sword deals only thrust attacks, and causes heavy bleeding.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "160",
+    "Weight": "3.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

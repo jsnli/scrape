@@ -1,0 +1,36 @@
+{
+    "Name": "Greatsword",
+    "Description": "Weapon type: Ultra Greatsword Attack type: Regular/Thrust One of the gigantic straight greatswords. Very few have what is takes to wield this incredibly heavy, damage-dealing monster. A favorite of the Knights Berenike, known for their heavy armor, and Black Iron Tarkus.",
+    "Damage": {
+        "Stats": {
+            "Physical": "130",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular/Thrust"
+    },
+    "Durability": "200",
+    "Weight": "12.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "28",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "70",
+        "Magical": "10",
+        "Intelligence": "50",
+        "Faith": "50"
+    },
+    "Stability": "44"
+}

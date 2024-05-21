@@ -1,0 +1,37 @@
+{
+    "Name": "Grant",
+    "Description": "A legendary weapon of the Way of White, granted to an Undead paladin long ago. This mass of iron can only be lifted by those with inhuman strength, but it is blessed, and very effective against agents of Dark.",
+    "Damage": {
+        "Stats": {
+            "Physical": "130",
+            "Magical": "130",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "600",
+    "Weight": "24",
+    "Stats": {
+        "Requirements": {
+            "Strength": "50",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "30"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "A"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Warpick",
+    "Description": "Hammer with a large beak-shaped pommel. Originally a pickaxe; redesigned for battle. This simple but deadly weapon hits heavily with thrust damage, such that it easily cracks metal armor.",
+    "Damage": {
+        "Stats": {
+            "Physical": "91",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "220",
+    "Weight": "3.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "11",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

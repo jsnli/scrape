@@ -1,0 +1,36 @@
+{
+    "Name": "Black Knight Sword",
+    "Description": "Greatsword of the black knights who wander Lordran. Used to face chaos demons. The large motion that puts the weight of the body into the attack reflects the great size of their adversaries long ago.",
+    "Damage": {
+        "Stats": {
+            "Physical": "220",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular/Thrust"
+    },
+    "Durability": "300",
+    "Weight": "8.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "20",
+            "Dexterity": "18",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "E",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

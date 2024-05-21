@@ -1,0 +1,37 @@
+{
+    "Name": "Demon's Spear",
+    "Description": "Carved from the bones of fellow demons. Wielded by the slim lesser Batwing demons.  The weapon of these chaos demons wandering Anor Londo are different from those of other chaos demons, and are imbued with lightning.",
+    "Damage": {
+        "Stats": {
+            "Physical": "100",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "120"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "400",
+    "Weight": "4.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "12",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Halberd",
+    "Description": "Long-hilted weapon mixing spear and axe is difficult to handle, requiring both strength and dexterity. The Halberd has two elementary attacks: spear-like thrusting and large sweeping swings. However, one false swing and the wielder is left wide open.",
+    "Damage": {
+        "Stats": {
+            "Physical": "110",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular/Thrust"
+    },
+    "Critical": "100",
+    "Durability": "200",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

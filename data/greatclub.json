@@ -1,0 +1,37 @@
+{
+    "Name": "Great Club",
+    "Description": "Giant tree branch serves as a wooden club. Smashes enemies from upside the head. The leaping attack is a trademark of clubs, and this giant club is no exception.",
+    "Damage": {
+        "Stats": {
+            "Physical": "135",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "12.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "28",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

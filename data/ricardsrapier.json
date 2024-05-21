@@ -1,0 +1,37 @@
+{
+    "Name": "Ricard's Rapier",
+    "Description": "A rapier with intricate decorations. Chosen weapon of the infamous Undead Prince Ricard. Ricard's exploits are told in a monomyth. He was born into royalty, but wandered the lands in a fateful ill-conceived journey. He became Undead, and disappeared up North.",
+    "Damage": {
+        "Stats": {
+            "Physical": "70",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "100",
+    "Weight": "2.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "8",
+            "Dexterity": "20",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "22"
+}

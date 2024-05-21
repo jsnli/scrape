@@ -1,0 +1,36 @@
+{
+    "Name": "Parrying Dagger",
+    "Description": "This dagger is useful after parrying and is normally equipped in the left hand. A favorite of the knights of Carim, who are famous for fighting without a shield.",
+    "Damage": {
+        "Stats": {
+            "Physical": "54",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash/Thrust"
+    },
+    "Durability": "200",
+    "Weight": "0.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "5",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

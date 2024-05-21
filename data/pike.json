@@ -1,0 +1,37 @@
+{
+    "Name": "Pike",
+    "Description": "Long spear with a very long red hilt. Traditionally used by groups of soldiers. Specially designed for long distance thrusting. Has the longest range of the non-projectile weapons, but its very length makes it somewhat difficult to handle.",
+    "Damage": {
+        "Stats": {
+            "Physical": "86",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "180",
+    "Weight": "10.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

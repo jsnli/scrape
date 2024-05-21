@@ -1,0 +1,31 @@
+{
+    "Name": "Lifehunt Scythe",
+    "Description": "Scythe born from the soul of Priscilla, the stark white crossbreed trapped inside the Painted World of Ariamis. Even the Gods feared Priscilla's lifehunt ability, and in the hands of a mortal, its power will turn upon its wielder.",
+    "Damage": {
+        "Stats": {
+            "Physical": "180",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "100",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Stability": "22"
+}

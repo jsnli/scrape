@@ -1,0 +1,36 @@
+{
+    "Name": "Man-serpent Greatsword",
+    "Description": "This single-bladed blood-stained greatsword is the choice weapon of the slithering serpent men of Sen's Fortress. An ordinary human will have great difficulty swinging this heavy beast effectively",
+    "Damage": {
+        "Stats": {
+            "Physical": "110",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Durability": "300",
+    "Weight": "10",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

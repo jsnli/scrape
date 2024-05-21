@@ -1,0 +1,29 @@
+{
+    "Name": "Black Bow of Pharis",
+    "Description": "The preferred black bow of the heroic archer Pharis. Has a longer range than standard bows, but is more difficult to use. Without proper abilities, results will be underwhelming.",
+    "Damage": {
+        "Stats": {
+            "Physical": "34",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "100",
+    "Weight": "1",
+    "Stats": {
+        "Requirements": {
+            "Strength": "9",
+            "Dexterity": "18",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "S",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

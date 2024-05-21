@@ -1,0 +1,37 @@
+{
+    "Name": "Moonlight Butterfly Horn",
+    "Description": "Weapon born from the mystical creature of Darkroot Garden, the Moonlight Butterfly. The horns of the butterfly, a being created by Seath, are imbued with a pure magic power.",
+    "Damage": {
+        "Stats": {
+            "Physical": "0",
+            "Magical": "120",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "160",
+    "Weight": "4",
+    "Stats": {
+        "Requirements": {
+            "Strength": "12",
+            "Dexterity": "0",
+            "Intelligence": "14",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "-",
+            "Intelligence": "B",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Stone Greataxe",
+    "Description": "Greataxe borne by the stone knights who guard the forest Sanctuary. This greataxe, requiring inhuman strength to wield and more fitted to manual labor than battle, is nevertheless completely lethal.",
+    "Damage": {
+        "Stats": {
+            "Physical": "190",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Durability": "700",
+    "Weight": "24.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "48",
+            "Dexterity": "10",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "E",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

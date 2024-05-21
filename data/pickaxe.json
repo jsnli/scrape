@@ -1,0 +1,37 @@
+{
+    "Name": "Pickaxe",
+    "Description": "Traditionally a mining tool, but the hard cone of the pommel is effective in battle. A downward swing of the Pickaxe can crush stone; a human head would be an afterthought.",
+    "Damage": {
+        "Stats": {
+            "Physical": "89",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "5.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "14",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

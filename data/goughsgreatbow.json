@@ -1,0 +1,29 @@
+{
+    "Name": "Gough's Greatbow",
+    "Description": "Greatbow used by Hawkeye Gough, of Lord Gwyn's Four Knights, for dragon slaying. This bow is larger than those used by the famed Dragonslayers. Only their leader, Gough, had the strength to handle it.",
+    "Damage": {
+        "Stats": {
+            "Physical": "85",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "100",
+    "Weight": "13",
+    "Stats": {
+        "Requirements": {
+            "Strength": "27",
+            "Dexterity": "20",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

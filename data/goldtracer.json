@@ -1,0 +1,36 @@
+{
+    "Name": "Gold Tracer",
+    "Description": "Curved sword used by the Lord's Blade Ciaran, of Gwyn's Four Knights. Ciaran brandishes her sword in a mesmerizing dance, etching the darkness with dire streaks of gold.",
+    "Damage": {
+        "Stats": {
+            "Physical": "130",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "240",
+    "Weight": "2.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "9",
+            "Dexterity": "25",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "A",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

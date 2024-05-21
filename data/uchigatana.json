@@ -1,0 +1,37 @@
+{
+    "Name": "Uchigatana",
+    "Description": "Katana forged in an Eastern land. Known for its brisk slashing motions. The Uchigatana cuts beautifully and causes bleeding, but its blade is easily nicked.",
+    "Damage": {
+        "Stats": {
+            "Physical": "90",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash/Thrust"
+    },
+    "Critical": "100",
+    "Durability": "80",
+    "Weight": "5.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "14",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

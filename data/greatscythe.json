@@ -1,0 +1,37 @@
+{
+    "Name": "Great Scythe",
+    "Description": "Weapon with a long curved blade. Converted from a wheat-harvesting tool. The magnificent sharp curved blade instills fear in opponents. Perhaps it is their survival instinct at work.",
+    "Damage": {
+        "Stats": {
+            "Physical": "100",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Critical": "100",
+    "Durability": "130",
+    "Weight": "5.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "14",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "22"
+}

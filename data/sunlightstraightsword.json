@@ -1,0 +1,36 @@
+{
+    "Name": "Sunlight Straight Sword",
+    "Description": "This standard longsword, belonging to Solaire of Astora, is of high quality, is well- forged, and has been kept in good repair. Easy-to-use and dependable, but unlikely to live up to its grandiose name.",
+    "Damage": {
+        "Stats": {
+            "Physical": "82",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "240",
+    "Weight": "4.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "12",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

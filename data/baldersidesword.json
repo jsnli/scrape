@@ -1,0 +1,36 @@
+{
+    "Name": "Balder Side Sword",
+    "Description": "The knights of the ancient kingdom of Balder wielded these rock-solid, long swords which are excellent for thrust attacks. Balder was the home of a Knight King Rendal, but the kingdom was reduced to ruins after a widespread outbreak of Undead.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "120",
+    "Weight": "3.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "14",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

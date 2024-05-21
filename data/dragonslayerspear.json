@@ -1,0 +1,37 @@
+{
+    "Name": "Dragonslayer Spear",
+    "Description": "Cross spear born from the Soul of Ornstein, a Dragonslayer guarding Anor Londo cathedral. Inflicts lightning damage; effective against dragons. Two-handed thrust relies on cross and buries spear deep within a dragon's hide, and sends human foes flying.",
+    "Damage": {
+        "Stats": {
+            "Physical": "95",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "65"
+        },
+        "Type": "Thrust"
+    },
+    "Critical": "100",
+    "Durability": "300",
+    "Weight": "10.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "24",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "B"
+        }
+    },
+    "Reduction": {
+        "Physical": "40",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

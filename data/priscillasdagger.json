@@ -1,0 +1,36 @@
+{
+    "Name": "Priscilla's Dagger",
+    "Description": "This sword, one of the rare dragon weapons, came from the tail of Priscilla, the Dragon Crossbreed in the painted world of Ariamis. Possessing the power of lifehunt, it dances about when wielded, in a fashion reminiscent of the white-robed painting guardians.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "100",
+    "Weight": "1.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "6",
+            "Dexterity": "20",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "A",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "26"
+}

@@ -1,0 +1,37 @@
+{
+    "Name": "Hand Axe",
+    "Description": "Small hand axe. Appears identical to a lumberjack's tool, but has an ideal weight and strength, and is easy to handle. One wrong swing leaves the wielder wide open, so timing and proximity to the enemy must be judged carefully.",
+    "Damage": {
+        "Stats": {
+            "Physical": "80",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "2",
+    "Stats": {
+        "Requirements": {
+            "Strength": "8",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "36"
+}

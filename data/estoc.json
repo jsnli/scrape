@@ -1,0 +1,37 @@
+{
+    "Name": "Estoc",
+    "Description": "The largest of the thrusting swords. Can pierce an armored knight in one thrust. The blade is also sharp, allowing slicing as well.",
+    "Damage": {
+        "Stats": {
+            "Physical": "75",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular/Thrust"
+    },
+    "Critical": "100",
+    "Durability": "150",
+    "Weight": "3.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "10",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "22"
+}

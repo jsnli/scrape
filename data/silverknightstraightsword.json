@@ -1,0 +1,36 @@
+{
+    "Name": "Silver Knight Straight Sword",
+    "Description": "The silver knights of Anor Londo guard the city using this beautifully slender weapon. Its chain attacks, in which the wielder takes great advancing steps and makes use of his bodyweight, are deadly even in single hits.",
+    "Damage": {
+        "Stats": {
+            "Physical": "175",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "300",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "22",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

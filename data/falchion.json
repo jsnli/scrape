@@ -1,0 +1,36 @@
+{
+    "Name": "Falchion",
+    "Description": "Small curved sword. Each hit inflicts little damage, but fluid chain attacks are deadly. The falchion's sharp slashing attacks are effective against cloth and flesh, but not against metal armor or tough scales.",
+    "Damage": {
+        "Stats": {
+            "Physical": "82",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "160",
+    "Weight": "2.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "9",
+            "Dexterity": "13",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}

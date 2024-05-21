@@ -1,0 +1,37 @@
+{
+    "Name": "Golem Axe",
+    "Description": "An Axe born from the soul of the Iron Golem, guardian of Sen's Fortress who repelled countless heroes who sought Anor Londo. Its powerful one-handed attack imitates the golem's blade of wind, but the heavy iron blade makes it quite unwieldy.",
+    "Damage": {
+        "Stats": {
+            "Physical": "170",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Critical": "100",
+    "Durability": "600",
+    "Weight": "16",
+    "Stats": {
+        "Requirements": {
+            "Strength": "36",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "E",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "36"
+}

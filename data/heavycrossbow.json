@@ -1,0 +1,29 @@
+{
+    "Name": "Heavy Crossbow",
+    "Description": "Powerful large crossbow. While bows require both hands, a crossbow is held in one, but arming each bolt takes time. Equip bolts to use. Press L2/R2 to change type of bolt.",
+    "Damage": {
+        "Stats": {
+            "Physical": "55",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "-"
+    },
+    "Durability": "150",
+    "Weight": "5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "14",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    }
+}

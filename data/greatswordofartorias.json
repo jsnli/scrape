@@ -1,0 +1,36 @@
+{
+    "Name": "Greatsword of Artorias",
+    "Description": "\"Sword born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias. The sword can damage ghosts, as it was cursed when Artorias joined a covenant with the creatures of the Abyss.\"",
+    "Damage": {
+        "Stats": {
+            "Physical": "178",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal, Thrust"
+    },
+    "Durability": "400",
+    "Weight": "10.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "18",
+            "Intelligence": "18",
+            "Faith": "18"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "C",
+            "Faith": "C"
+        }
+    },
+    "Reduction": {
+        "Physical": "60",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

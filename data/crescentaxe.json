@@ -1,0 +1,37 @@
+{
+    "Name": "Crescent Axe",
+    "Description": "Well-used old bronze battle axe with a long hilt and a crescent-shaped blade. One of the blessed weapons of the Way of White. The Crescent Axe is bequeathed to cleric warriors who have proven their faith.",
+    "Damage": {
+        "Stats": {
+            "Physical": "115",
+            "Magical": "115",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "180",
+    "Weight": "7.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "18",
+            "Dexterity": "12",
+            "Intelligence": "0",
+            "Faith": "16"
+        },
+        "Bonuses": {
+            "Strength": "D",
+            "Dexterity": "D",
+            "Intelligence": "-",
+            "Faith": "B"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "36"
+}

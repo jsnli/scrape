@@ -1,0 +1,36 @@
+{
+    "Name": "Dark Sword",
+    "Description": "Darksword Weapon type: Straight Sword Attack type: Regular The sword of the knights of the Four Kings of New Londo. Its blade is wide and thick, and it is wielded in an unusual manner. When the Four Kings were seduced by evil, their knights became Darkwraiths, servants of the Dark who wielded these darkswords.",
+    "Damage": {
+        "Stats": {
+            "Physical": "82",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Normal"
+    },
+    "Durability": "200",
+    "Weight": "6.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "16",
+            "Dexterity": "16",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "C",
+            "Dexterity": "C",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "50",
+        "Magical": "10",
+        "Intelligence": "35",
+        "Faith": "35"
+    },
+    "Stability": "32"
+}

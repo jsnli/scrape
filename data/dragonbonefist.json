@@ -1,0 +1,37 @@
+{
+    "Name": "Dragon Bone Fist",
+    "Description": "A weapon from the soul of the Iron Golem, guardian of Sen's Fortress who repelled countless heroes who sought Anor Londo. The Gods fused the power of the soul with the great bones of the dragons, forming an appropriate core for the giant golem.",
+    "Damage": {
+        "Stats": {
+            "Physical": "95",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Strike"
+    },
+    "Critical": "100",
+    "Durability": "999",
+    "Weight": "8.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "20",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "A",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "0",
+        "Magical": "0",
+        "Intelligence": "0",
+        "Faith": "0"
+    },
+    "Stability": "0"
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Dragon King Greataxe",
+    "Description": "This axe, one of the rare dragon weapons, is formed by the tail of the Gaping Dragon, a distant, deformed descendant of the everlasting dragons. The axe is imbued with a mystical power, to be released when held with both hands.",
+    "Damage": {
+        "Stats": {
+            "Physical": "380",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Durability": "400",
+    "Weight": "24.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "50",
+            "Dexterity": "8",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "-",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "38"
+}

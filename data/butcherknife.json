@@ -1,0 +1,37 @@
+{
+    "Name": "Butcher Knife",
+    "Description": "Giant butcher knife wielded by the Undead man-eating cook lurking in the Depths. More a tool for subduing and preparing live catches than an actual weapon. Those who have faced this deadly blade have a deeper sense of how helpless prey must feel.",
+    "Damage": {
+        "Stats": {
+            "Physical": "90",
+            "Magical": "0",
+            "Fire": "0",
+            "Lightning": "0"
+        },
+        "Type": "Regular"
+    },
+    "Critical": "100",
+    "Durability": "250",
+    "Weight": "10.0",
+    "Stats": {
+        "Requirements": {
+            "Strength": "24",
+            "Dexterity": "0",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "B",
+            "Dexterity": "-",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "55",
+        "Magical": "10",
+        "Intelligence": "40",
+        "Faith": "40"
+    },
+    "Stability": "36"
+}

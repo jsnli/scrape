@@ -1,0 +1,36 @@
+{
+    "Name": "Quelaag's Furysword",
+    "Description": "A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. Like Quelaag's body, the sword features shells, spikes, and a coating of chaos fire. Power affected by wielder's humanity.",
+    "Damage": {
+        "Stats": {
+            "Physical": "60",
+            "Magical": "0",
+            "Fire": "170",
+            "Lightning": "0"
+        },
+        "Type": "Slash"
+    },
+    "Durability": "600",
+    "Weight": "3.5",
+    "Stats": {
+        "Requirements": {
+            "Strength": "11",
+            "Dexterity": "13",
+            "Intelligence": "0",
+            "Faith": "0"
+        },
+        "Bonuses": {
+            "Strength": "E",
+            "Dexterity": "B",
+            "Intelligence": "-",
+            "Faith": "-"
+        }
+    },
+    "Reduction": {
+        "Physical": "45",
+        "Magical": "10",
+        "Intelligence": "30",
+        "Faith": "30"
+    },
+    "Stability": "30"
+}
